@@ -77,7 +77,7 @@ ul a {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 60vh;
+  height: 70vh;
 }
 
 .abt-title {
@@ -108,4 +108,32 @@ ul a {
   flex-direction: column;
   align-items: center;
   gap: 0;
+}
+
+.third-section {
+  background-color: #e5e7eb;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.quote {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+  width: 70%;
+}
+
+.qt-info {
+  font-size: 36px;
+  font-weight: lighter;
+  font-style: italic;
+}
+
+.qt-auth {
+  font-size: 24px;
+  align-self: flex-end;
 }
