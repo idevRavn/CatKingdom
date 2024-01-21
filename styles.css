@@ -14,6 +14,7 @@ body {
   background-color: #1f2937;
   color: #f9faf8;
   padding: 16px;
+  height: 64vh;
 }
 
 .header {
@@ -72,17 +73,17 @@ ul a {
 }
 
 .second-section {
-  padding: 16px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  height: 60vh;
 }
 
 .abt-title {
   font-size: 36px;
   font-weight: 900;
-  margin: 40px;
+  margin-bottom: 40px;
   color: #1f2937;
 }
 
@@ -98,6 +99,7 @@ ul a {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
 }
 
 .info-box {
